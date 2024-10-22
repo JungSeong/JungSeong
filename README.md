@@ -6,7 +6,7 @@
 
 구체적으로 연구하고 싶은 분야는 **SLAM**(동시적 위치추정 및 지도작성)이며, 앞으로 공부한 내용과 수행한 프로젝트를 깃허브에 정리하려고 합니다.
 
-또한 **퍼즐 게임 개발**에 관심이 많으며, 저의 게임을 누군가가 재미있게 해준다면 정말 행복할 것 같다는 생각을 가지고 있습니다.
+또한 **퍼즐 게임 개발**에도 관심이 많으며, 저의 게임을 누군가가 재미있게 해준다면 정말 행복할 것 같다는 생각을 가지고 있습니다.
 
 ## 🤖 Technologies and tools 
 
@@ -33,8 +33,8 @@
 
 <h2> 💻 My Activity </h2>
 
-[![JungSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSeong&border_radius=20&hide=issues&title_color=9400D3)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSeong&border_radius=20&title_color=9400D3&layout=compact)
+[![JungSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSeong&border_radius=20&hide=issues&title_color=6FDF6F&bg_color=212121&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSeong&border_radius=20&title_color=FFFFFF&bg_color=212121&text_color=FFFFFF&layout=compact)
 <!--
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
