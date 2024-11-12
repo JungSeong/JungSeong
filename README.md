@@ -30,12 +30,12 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
 ## 🏆 Awards
-**세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
+- **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
 
 ## 📚 Study & Activity
-**GPA : 3.96 / 4.5** (290명 중 46등, 상위 15%)<br>
-**TOEIC : 935** (23년 1월 취득)<br>
-**Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
+- **GPA : 3.96 / 4.5** (290명 중 46등, 상위 15%)<br>
+- **TOEIC : 935** (23년 1월 취득)<br>
+- **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 
 ---
 
