@@ -29,7 +29,7 @@
 ### Others
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
-## 🏆 Awards
+## 🏆 Awards & Certificates
 - **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
 
 ## 📚 Study & Activity
