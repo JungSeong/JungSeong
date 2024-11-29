@@ -1,12 +1,10 @@
 # Hi, I'm SEONGWON JANG 👋 
 
-안녕하세요, 저는 **자율주행 자동차**와 **게임 개발**에 큰 관심을 두고 공부하는 학생입니다.
+안녕하세요, 저는 **게임 개발**과 **자율주행 자동차**에 관심을 두고 공부하는 학생입니다.
 
-저는 C++과 MATLAB을 중심으로 객체 지향적 프로그래밍을 위한 공부를 주로 하고 있습니다.
+저는 제가 만든 게임을 누군가가 재미있게 해준다면 정말 행복하겠다는 생각을 가지며 유니티와 언리얼 엔진을 이용해 게임 개발 공부를 해보고 있습니다.
 
-저는 자동차 같은 세상을 움직이는 기술의 발전이 세상을 좋은 방향으로 바꾸어 줄 것이라고 생각합니다. GPS/RTK, Sensor Fusion, Pose Estimation 과 같은 공부를 해보고 있습니다.
-
-또한 저는 제가 만든 게임을 누군가가 재미있게 해준다면 정말 행복하겠다는 생각을 가지며 유니티로 게임 개발 공부를 해보고 있습니다.
+또한 저는 자동차 같은 세상을 움직이는 기술의 발전이 세상을 좋은 방향으로 바꾸어 줄 것이라고 생각하며 틈틈히 공부하고 있습니다.
 
 저는 제 꿈을 조금 늦게 정했습니다. 하지만 조급해하지 않고, 앞으로 꾸준하게 공부한 내용과 수행한 프로젝트를 깃허브에 정리해보고자 합니다.
 
@@ -27,7 +25,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 ### Games
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> 
 
 ### Others
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
