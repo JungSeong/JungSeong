@@ -1,6 +1,6 @@
 # Hi, I'm SEONGWON JANG 👋 
 
-**주요 관심 분야 : AGV, AMR (Robotics) & Game Development**
+**I'm Interested in : AGV, AMR (Robotics) & Game Development**
 
 ---
 
