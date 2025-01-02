@@ -1,6 +1,6 @@
 # Hi, I'm SEONGWON JANG 👋 
 
-**I'm Interested in : AGV, AMR (Robotics) & Game Development**
+**I'm Interested in : AGV, AMR (Robotics)
 
 ---
 
@@ -30,7 +30,7 @@
   
 ## 📚 Study & Activity
 - **GPA : 3.96 / 4.5, (전공 : 4.09 / 4.5)** (290명 중 46등, 상위 15%)<br>
-- **TOEIC : 935** (23년 1월 취득)<br>
+- **TOEIC : 935** (23년 1월)<br>
 - **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 - **AIV (Autonomous Intelligent Vehicle) 3기 활동 (24.11.1 ~)**
 
