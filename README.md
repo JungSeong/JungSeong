@@ -1,6 +1,6 @@
 ## Hi, I'm SEONGWON JANG 👋
 
-**I'm interested in : AGV, AMR (Robotics)**
+**I'm interested in : AGV, AMR (Robotics)**<br>
 
 ---
 
@@ -15,21 +15,24 @@
 ### Middleware
 <img src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ROS&logoColor=white">
 
-### Libraries & Databases
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> 
+### Libraries
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white">
 
 ### Others
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
 ## 🏆 Awards & Certificates
 - **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
 - **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 수상**
   
 ## 📚 Study & Activity
-- **GPA : 3.96 / 4.5, (전공 : 4.09 / 4.5)** (290명 중 46등, 상위 15%)<br>
+- **GPA : 4.03 / 4.5 (전공 : 4.13 / 4.5)** (290명 중 ??등, 상위 ??%)<br>
 - **TOEIC : 935** (23년 1월)<br>
 - **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 - **AIV (Autonomous Intelligent Vehicle) 3기 활동 (24.11.1 ~)**
+
+## 💼 Internship
+- **자율지능시스템(AISL) 연구실 : 24.07.01 ~ 24.09.30**
 
 ---
 
