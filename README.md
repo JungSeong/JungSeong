@@ -1,6 +1,6 @@
 ## Hi, I'm SEONGWON JANG 👋
 
-**I'm interested in : AGV, AMR (Robotics)**<br>
+**I'm interested in Automated Vehicle & AGV, AMR (Robotics)**<br>
 
 ---
 
