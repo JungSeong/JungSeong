@@ -1,8 +1,8 @@
-## Hi, I'm SEONGWON JANG 👋
+<h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
-**I'm interested in Automated Vehicle & AGV, AMR (Robotics)**<br>
+<p align="center"><strong>I'm interested in Automated Vehicle & AGV, AMR (Robotics)</strong></p>
 
----
+**Research Interests : Computer Vision, V-SLAM, Sensor Filtering/Fusion**
 
 ## 🔧 Technologies and tools 
 
@@ -13,7 +13,7 @@
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 ### Middleware
-<img src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ROS&logoColor=white">
+<img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ROS&logoColor=white">
 
 ## Hardware
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
@@ -28,9 +28,11 @@
 - **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
 - **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 수상**
   
-## 📚 Study & Activity
+## 📚 Study
 - **GPA : 4.03 / 4.5 (전공 : 4.13 / 4.5)** (290명 중 ??등, 상위 ??%)<br>
 - **TOEIC : 935** (23년 1월)<br>
+
+## 🚣 Activity 
 - **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 - **AIV (Autonomous Intelligent Vehicle) 3기 활동 (24.11.1 ~)**
 
