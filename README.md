@@ -1,10 +1,7 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
 <p align="center"><strong>I'm interested in Automated Vehicle & AGV, AMR (Robotics)</strong></p>
-<p align="center"><strong>Research Interests : Computer Vision, V-SLAM, Sensor Filtering/Fusion</strong></p>
-
-
-
+<p align="center"><strong>Research Interests : V-SLAM, Sensor Filtering/Fusion, Pose Estimation </strong></p>
 <br>
 
 ## 🔧 Technologies and tools 
