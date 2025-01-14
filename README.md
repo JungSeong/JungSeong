@@ -25,20 +25,20 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 ## 🏆 Awards & Certificates
-- **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
 - **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 수상**
+- **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
   
 ## 📚 Study
 - **GPA : 4.03 / 4.5 (전공 : 4.13 / 4.5)** (290명 중 ??등, 상위 ??%)<br>
 - **TOEIC : 935** (23년 1월)<br>
 
 ## 🚣 Activity 
-- **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 - **AIV (Autonomous Intelligent Vehicle) 3기 활동 (24.11.1 ~)**
+- **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 
 ## 💼 Internship
-- **SDC Lab : 24.01.01 ~ 24.06.30**
 - **자율지능시스템(AISL) 연구실 : 24.07.01 ~ 24.09.30**
+- **SDC Lab : 24.01.01 ~ 24.06.30**
 
 ---
 
