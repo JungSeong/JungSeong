@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 ## 🏆 Awards & Certificates
-- **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 수상**
+- **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 - [AIBAK(AI Based Assistant Kiosk Service)](https://github.com/JungSeong/AIBAK.git)**
 - **세종대학교 독서 경시대회 3회 수상 (1등 1번, 3등 2번)**
   
 ## 📚 Study
