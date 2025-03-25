@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
-<p align="center"><strong>I'm interested in Automated Vehicle & AGV, AMR (Robotics)</strong></p>
-<p align="center"><strong>Especially : V-SLAM, Object Detection / Tracking, 3D Reconstruction, LLM </strong></p>
+<p align="center"><strong>I'm Robotics vision enthusiast</strong></p>
+<p align="center"><strong>Research interests in : V-SLAM, Object Detection / Tracking, 3D Reconstruction </strong></p>
 <br>
 
 ## 🔧 Technologies and tools 
