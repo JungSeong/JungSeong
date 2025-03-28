@@ -33,7 +33,8 @@
 - **TOEIC : 935** (23.01)<br>
 
 ## 🚣 Activity 
-- **AIV (Autonomous Intelligent Vehicle) 3기 활동 (24.11.1 ~)**
+- **애드인에듀 ROS2 자율주행로봇 44일 부트캠프 4기 (25.3.31 ~ 25.6.2)**
+- **AIV (Autonomous Intelligent Vehicle) 3기 (24.11.1 ~)**
 - **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
 
 ## 💼 Internship
