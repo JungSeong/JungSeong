@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white">
 
 ### Others
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 ## 🏆 Awards & Certificates
 - **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 - [AIBAK(AI Based Assistant Kiosk Service)](https://github.com/JungSeong/AIBAK.git)**
@@ -30,12 +30,12 @@
   
 ## 📚 Study
 - **GPA : 4.03 / 4.5 (Major : 4.13 / 4.5)**<br>
-- **TOEIC : 935** (23.01)<br>
+- **TOEIC : 935** (Jan. 2023)<br>
 
 ## 🚣 Activity 
-- **애드인에듀 ROS2 자율주행로봇 44일 부트캠프 4기 (25.3.31 ~ 25.6.2)**
-- **AIV (Autonomous Intelligent Vehicle) 3기 (24.11.1 ~)**
-- **Prompt! 2기 C언어 스터디 팀장 (24.9.1 ~ 24.12.31)**
+- **애드인에듀 ROS2 자율주행로봇 44일 부트캠프 4기 : 25.3.31 ~ 25.6.2**
+- **AIV (Autonomous Intelligent Vehicle) 3기 : 24.11.1 ~ Now**
+- **Prompt! 2기 C언어 스터디 팀장 : 24.9.1 ~ 24.12.31**
 
 ## 💼 Internship
 - **지능형 자율주행 인식 그룹(IVPG) 연구실 : 25.03.01 ~ Now**
