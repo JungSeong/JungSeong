@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
 <p align="center"><strong>I'm Robotics vision enthusiast</strong></p>
-<p align="center"><strong>Research interests in : V-SLAM, Object Detection / Tracking, 3D Reconstruction </strong></p>
+<p align="center"><strong>Research interests in : Object Detection / Tracking, 3D Reconstruction... (still agonizing...) </strong></p>
 <br>
 
 ## 🔧 Technologies and tools 
