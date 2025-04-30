@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
 <p align="center"><strong>Passionate Vision & LLM enthusiast</strong></p>
-<p align="center"><strong>Research interests in : Object Detection, Vision-Language Model, 3D Reconstruction, Sensor Fusion... (still agonizing...) </strong></p>
+<p align="center"><strong>Research interests in : Object Detection/Tracking, VLM, 3D Reconstruction, Multiple Sensor Fusion</strong></p>
 <br>
 
 ## 🔧 Technologies and tools 
