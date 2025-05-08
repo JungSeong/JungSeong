@@ -1,8 +1,10 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
 <p align="center"><strong>Passionate Vision & LLM enthusiast</strong></p>
-<p align="center"><strong>Research interests in : Object Detection/Tracking, VLM, 3D Reconstruction, Multiple Sensor Fusion</strong></p>
+<p align="center"><strong>Research interests in : 3D Reconstruction, Visual Localization, Multiple Sensor Fusion, and VLM</strong></p>
 <br>
+
+🙋🏻‍♂️ You can view my CV here
 
 ## 🔧 Technologies and tools 
 
@@ -44,7 +46,6 @@
 ## 💼 Internship
 - **지능형 자율주행 인식 그룹(IVPG) 연구실 : 25.03.01 ~ Now**
 - **자율지능시스템(AISL) 연구실 : 24.07.01 ~ 24.09.30**
-- **SDC Lab : 24.01.01 ~ 24.06.30**
 
 ## 💰 Scholarship
 
