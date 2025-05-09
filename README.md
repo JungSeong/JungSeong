@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
 
-<p align="center"><strong>A junior 3D Vision Researcher</strong></p>
-<p align="center"><strong>Research interests in : 3D Reconstruction, Visual Localization, Multiple Sensor Fusion, and VLM</strong></p>
+<p align="center"><strong>Research interested in : 3D Reconstruction, Visual Localization, Multiple Sensor Fusion, and VLM</strong></p>
 <p align="center">🙋🏻‍♂️ You can view my CV [here]()</p>
 <br>
 
