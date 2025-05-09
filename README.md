@@ -2,9 +2,8 @@
 
 <p align="center"><strong>A junior 3D Vision Researcher</strong></p>
 <p align="center"><strong>Research interests in : 3D Reconstruction, Visual Localization, Multiple Sensor Fusion, and VLM</strong></p>
+<p align="center">🙋🏻‍♂️ You can view my CV [here]()</p>
 <br>
-
-- 🙋🏻‍♂️ You can view my CV [here]()
 
 ## 🔧 Technologies and tools 
 
@@ -24,7 +23,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white">
 
 ### Others
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 ## 🏆 Awards & Certificates
 - **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 - [AIBAK(AI Based Assistant Kiosk Service)](https://github.com/JungSeong/AIBAK.git)**
