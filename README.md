@@ -52,7 +52,7 @@
 • Autonomopus Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Now) <br>
 • Household Companion Robot, [**Robo**](https://github.com/JungSeong/Robo.git) (Mar.2025 ~ Now) <br>
 • AI-based Book Kiosk Service, [**AIBAK**](https://github.com/JungSeong/AIBAK.git) (Sep.2024 ~ Dec.2024) <br>
-• FER web program with Residual Masking Network, team leader of [**Team Linked**](https://github.com/JungSeong/RMN-Project.git) (Apr.2024 ~ May.2024)
+• FER web program with Residual Masking Network, team leader of [**'Team Linked'**](https://github.com/JungSeong/RMN-Project.git) (Apr.2024 ~ May.2024)
 
 <br>
 
