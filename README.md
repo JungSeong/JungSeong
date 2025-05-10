@@ -33,18 +33,18 @@
 <br>
 
 ## 🇺🇸 LANGUAGE SKILLS
-•	Participate in weekly English conversation gatherings (Feb.2025 ~ ongoing)<br>
+•	Participate in weekly English conversation gatherings (Feb.2025 ~ Now)<br>
 •	Delivered [presentation](https://www.notion.so/English-Presentation-1ee96e9374a980709f3fd4495de5145a?pvs=4) in English during Microwave Engineering class (Apr. 2024)<br>
 • **[TOEIC : 935](https://www.notion.so/TOEIC-1ee96e9374a980369af4d20ab8e4de05?pvs=4)** (Jan. 2023)
 
 <br>
 
 ## 🚣 EXTRACURRICULAR ACTIVITIES
-• Addinedu 44 days Robotics & AI BootCamp, team member of 'Brainless' (Apr.2025 ~ Now) <br>
-• Academic gathering, OROCA team member (Mar.2025 ~ Now) <br>
+• Addinedu 44 days Robotics & AI BootCamp, member of team 'Brainless' (Apr.2025 ~ Now) <br>
+• Academic gathering, member of team OROCA (Mar.2025 ~ Now) <br>
 • Academic Club, AIV(Autonomous Intelligent Vehicle) team member (Nov.2024 ~ Now) <br>
 • Academic Club, Prompt! C Language Study leader - [**Teaching Experience**](https://github.com/JungSeong/Prompt-C-Study) (Sep.2024 ~ Dec.2024) <br>
-• Academic Club, Prompt! Linux OS study member : (Mar.2024 - Jun.2024)
+• Academic Club, Prompt! Linux OS Study member : (Mar.2024 - Jun.2024)
 
 <br>
 
@@ -57,7 +57,7 @@
 <br>
 
 ## 💼 Internship
-• **[지능형 자율주행 인식 그룹(IVPG) 연구실 : (Mar.2025 ~ Now)](https://github.com/JungSeong/IVPG-LAB.git)** <br>
+• **지능형 자율주행 인식 그룹(IVPG) 연구실 : (Mar.2025 ~ Now)** <br>
 • **자율지능시스템(AISL) 연구실 : (Jul.2024 ~ Sep.2024)**
 
 <br>
@@ -71,7 +71,7 @@
 <br>
 
 ## 🥇 Certificates 
-• **정보처리기사 필합 (Mar.2025)**
+• **정보처리기사 필기 (Mar.2025)**
 
 <br>
 
