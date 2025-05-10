@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
 ### Libraries
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-696969?style=for-the-badge&logo=LangChain&logoColor=white">
 
 ### Others
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
@@ -49,7 +49,7 @@
 <br>
 
 ## 🗂️ PROJECTS
-• Autonomopus Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Now) <br>
+• Autonomous Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Now) <br>
 • Household Companion Robot, [**Robo**](https://github.com/JungSeong/Robo.git) (Mar.2025 ~ Now) <br>
 • AI-based Book Kiosk Service, [**AIBAK**](https://github.com/JungSeong/AIBAK.git) (Sep.2024 ~ Dec.2024) <br>
 • FER web program with Residual Masking Network, team leader of [**'Team Linked'**](https://github.com/JungSeong/RMN-Project.git) (Apr.2024 ~ May.2024)
