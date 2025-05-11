@@ -7,7 +7,6 @@
 ## 🧑‍🎓 Research interests
 • **3D Reconstruction, Visual Localization, Multiple Sensor Fusion, and VLM**
 
-
 ## 💻 IT SKILLS
 ### Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-E97109?style=for-the-badge&logo=mathworks&logoColor=white">
@@ -27,12 +26,10 @@
 ### Others
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
-
 ## 🇺🇸 LANGUAGE SKILLS
 •	Participate in weekly English conversation gatherings (Feb.2025 ~ Now)<br>
 •	Delivered [presentation](https://www.notion.so/English-Presentation-1ee96e9374a980709f3fd4495de5145a?pvs=4) in English during Microwave Engineering class (Apr. 2024)<br>
 • **[TOEIC : 935](https://www.notion.so/TOEIC-1ee96e9374a980369af4d20ab8e4de05?pvs=4)** (Jan. 2023)
-
 
 ## 🚣 EXTRACURRICULAR ACTIVITIES
 • Addinedu 44 days Robotics & AI BootCamp, member of team 'Brainless' (Apr.2025 ~ Now) <br>
@@ -41,18 +38,15 @@
 • Academic Club, Prompt! C Language Study leader - [**Teaching Experience**](https://github.com/JungSeong/Prompt-C-Study) (Sep.2024 ~ Dec.2024) <br>
 • Academic Club, Prompt! Linux OS Study member : (Mar.2024 - Jun.2024)
 
-
 ## 🗂️ PROJECTS
 • Autonomous Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Now) <br>
 • Household Companion Robot, [**Robo**](https://github.com/JungSeong/Robo.git) (Mar.2025 ~ Now) <br>
 • AI-based Book Kiosk Service, [**AIBAK**](https://github.com/JungSeong/AIBAK.git) (Sep.2024 ~ Dec.2024) <br>
 • FER web program with Residual Masking Network, team leader of [**'Team Linked'**](https://github.com/JungSeong/RMN-Project.git) (Apr.2024 ~ May.2024)
 
-
 ## 💼 Internship
 • **지능형 자율주행 인식 그룹(IVPG) 연구실 : (Mar.2025 ~ Now)** <br>
 • **자율지능시스템(AISL) 연구실 : (Jul.2024 ~ Sep.2024)**
-
 
 ## 🏆 Awards
 • **사물인터넷 혁신융합대학 제 1회 In-Jeju 챌린지 우수상 (Dec.2024)**<br>
@@ -60,12 +54,8 @@
 • **세종대학교 제 61회 독서 경시대회 수상 - 3rd Place (Dec.2023)**<br>
 • **세종대학교 제 60회 독서 경시대회 수상 - 1st Place (Oct.2023)**
 
-<br>
-
 ## 🥇 Certificates 
 • **정보처리기사 필기 (Mar.2025)**
-
-<br>
 
 ## 💰 Scholarship
 •
