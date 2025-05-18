@@ -5,7 +5,7 @@
 • **GPA(B.S) : 4.03 / 4.5 (Major : 4.13 / 4.5) (Ranked 31st out of 239, TOP 11%)**
 
 ## 👨‍🎓 Research interests
-• **3D Reconstruction, Generative Model, Visual Localization, and VLM**
+• **3D Reconstruction, Generative Models, Visual Localizations, and VLM**
 
 ## 💻 IT SKILLS
 ### Languages
