@@ -5,7 +5,7 @@
 • **GPA(B.S) : 4.03 / 4.5 (Major : 4.13 / 4.5) (Ranked 31st out of 239, TOP 11%)**
 
 ## 👨‍🎓 Research interests
-• **3D Reconstruction, Generative Models, Visual Localizations, and VLM**
+• **3D Reconstruction, Generative Models, 3D Scene Understanding, and VLM**
 
 ## 💻 IT SKILLS
 ### Languages
@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 ## 🇺🇸 LANGUAGE SKILLS
-•	Participate in weekly English conversation gatherings (Feb.2025 ~ Now)<br>
 •	Delivered [presentation](https://www.notion.so/English-Presentation-1ee96e9374a980709f3fd4495de5145a?pvs=4) in English during Microwave Engineering class (Apr. 2024)<br>
 • **[TOEIC : 935](https://www.notion.so/TOEIC-1ee96e9374a980369af4d20ab8e4de05?pvs=4)** (Jan. 2023)
 
