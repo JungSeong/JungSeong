@@ -31,15 +31,15 @@
 • **[TOEIC : 935](https://www.notion.so/TOEIC-1ee96e9374a980369af4d20ab8e4de05?pvs=4)** (Jan. 2023)
 
 ## 🚣 EXTRACURRICULAR ACTIVITIES
-• Addinedu 44 days Robotics & AI BootCamp, member of team 'Brainless' (Apr.2025 ~ Now) <br>
-• Academic gathering, member of team OROCA (Mar.2025 ~ Now) <br>
+• Addinedu 44 days Robotics & AI BootCamp, member of team 'Brainless' (Apr.2025 ~ Jun.2025) <br>
+• Academic gathering, member of team OROCA (Mar.2025 ~ Jun.2025) <br>
 • Academic Club, AIV(Autonomous Intelligent Vehicle) team member (Nov.2024 ~ Now) <br>
 • Academic Club, Prompt! C Language Study leader - [**Teaching Experience**](https://github.com/JungSeong/Prompt-C-Study) (Sep.2024 ~ Dec.2024) <br>
 • Academic Club, Prompt! Linux OS Study member : (Mar.2024 - Jun.2024)
 
 ## 🗂️ PROJECTS
-• Autonomous Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Now) <br>
-• Household Companion Robot, [**Robo**](https://github.com/JungSeong/Robo.git) (Mar.2025 ~ Now) <br>
+• Autonomous Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Jun.2025) <br>
+• Household Companion Robot, [**Robo**](https://github.com/JungSeong/Robo.git) (Mar.2025 ~ Jun.2025) <br>
 • AI-based Book Kiosk Service, [**AIBAK**](https://github.com/JungSeong/AIBAK.git) (Sep.2024 ~ Dec.2024) <br>
 • [**FER web application**](https://github.com/JungSeong/RMN-Project.git) with Residual Masking Network (Apr.2024 ~ May.2024)
 
