@@ -1,15 +1,7 @@
 <h2 align="center">Hi, I'm SEONGWON JANG 👋</h2>
-<p align="center">🙋🏻‍♂️ You can view my CV <a href="./contents/SeongwonJang_CV.pdf">here</p>
 
 ## 📚 EDUCATION
 • **GPA(B.S) : 4.03 / 4.5 (Major : 4.13 / 4.5) (Ranked 31st out of 239, TOP 11%)**
-
-## 👨‍🎓 Research interests
-- 3D Scene Understanding
-- 3D Reconstruction
-- Pose Estimation
-- Gaussian Splatting
-- Multi-Modal Models
 
 ## 💻 IT SKILLS
 ### Languages
