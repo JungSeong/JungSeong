@@ -27,13 +27,6 @@
 •	Delivered [presentation](https://www.notion.so/English-Presentation-1ee96e9374a980709f3fd4495de5145a?pvs=4) in English during Microwave Engineering class (Apr.2024)<br>
 • **[TOEIC : 935](https://www.notion.so/TOEIC-1ee96e9374a980369af4d20ab8e4de05?pvs=4)** (Jan.2023)
 
-## 🚣 EXTRACURRICULAR ACTIVITIES
-• Addinedu 44 days Robotics & AI BootCamp, member of team 'Brainless' (Apr.2025 ~ Jun.2025) <br>
-• Academic gathering, member of team OROCA (Mar.2025 ~ Jun.2025) <br>
-• Academic Club, AIV(Autonomous Intelligent Vehicle) team member (Nov.2024 ~ Jun. 2025) <br>
-• Academic Club, Prompt! C Language Study leader - [**Teaching Experience**](https://github.com/JungSeong/Prompt-C-Study) (Sep.2024 ~ Dec.2024) <br>
-• Academic Club, Prompt! Linux OS Study member : (Mar.2024 - Jun.2024)
-
 ## 🗂️ PROJECTS
 • Autonomous Restaurant Solution, [**RoboDine**](https://github.com/addinedu-roscamp-4th/roscamp-repo-2.git) (Apr.2025 ~ Jun.2025) <br>
 • Household Companion Robot, [**Robo**](https://github.com/JungSeong/Robo.git) (Mar.2025 ~ Jun.2025) <br>
@@ -44,6 +37,13 @@
 • **Ubiquitous Artifical Intelligence Lab : (July.2025 ~)** <br>
 • **지능형 자율주행 인식 그룹(IVPG) 연구실 : (Mar.2025 ~ Jun.2025)** <br>
 • **자율지능시스템(AISL) 연구실 : (Jul.2024 ~ Sep.2024)**
+
+## 🚣 EXTRACURRICULAR ACTIVITIES
+• Addinedu 44 days Robotics & AI BootCamp, member of team 'Brainless' (Apr.2025 ~ Jun.2025) <br>
+• Academic gathering, member of team OROCA (Mar.2025 ~ Jun.2025) <br>
+• Academic Club, AIV(Autonomous Intelligent Vehicle) team member (Nov.2024 ~ Jun. 2025) <br>
+• Academic Club, Prompt! C Language Study leader - [**Teaching Experience**](https://github.com/JungSeong/Prompt-C-Study) (Sep.2024 ~ Dec.2024) <br>
+• Academic Club, Prompt! Linux OS Study member : (Mar.2024 - Jun.2024)
 
 ## 🏆 Awards
 • **ROS2와 AI를 활용한 자율주행 & 로봇팔 개발자 부트캠프 최우수상 (Jun.2025)**<br>
