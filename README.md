@@ -13,6 +13,7 @@
 
 ## 💼 Internship
 • **UAI LAB (July.2025 ~ Now)**</br>
+• **IVPG LAB (Mar.2025 ~ Jun.2025)**</br>
 
 ---
 
