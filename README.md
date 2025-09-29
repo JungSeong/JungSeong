@@ -11,7 +11,6 @@
 
 <h2> 🚀 Github Activity </h2>
 
-[![JungSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSeong&border_radius=20&hide=issues&title_color=6FDF6F&bg_color=212121&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSeong&hide=Jupyter%20Notebook&border_radius=20&title_color=FFFFFF&bg_color=212121&text_color=FFFFFF&layout=compact)
 
 <h2> 📐 Algorithm </h2>
