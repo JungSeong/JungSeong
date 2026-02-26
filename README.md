@@ -4,7 +4,8 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-696969?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-696969?style=for-the-badge&logo=LangChain&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=white">
 
 <h2> 📐 Algorithm </h2>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungseong)](https://solved.ac/jungseong)
+
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jungseong)](https://github.com/2ykwang/solvedac-readme-badge)
 
 <!--
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
