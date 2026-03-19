@@ -5,7 +5,7 @@
 
 <h2> 📐 Algorithm </h2>
 
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jungseong)](https://github.com/2ykwang/solvedac-readme-badge)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jungseong&compact=true&size=medium&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
 
 <!--
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
