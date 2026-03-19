@@ -1,7 +1,7 @@
 <h2 align="center">֎ Junior LLM Engineer</h2>
 
 ## 🛠️ Languages and Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,linux,opencv,docker,postgres,git,fastapi,flask,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,linux,opencv,docker,mysql,postgres,git,fastapi,flask,cmake)](https://skillicons.dev)
 
 <h2> 📐 Algorithm </h2>
 
