@@ -1,4 +1,4 @@
-<h2 align="center">֎ Junior LLM Engineer</h2>
+<h2 align="center">AI Engineer</h2>
 
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,linux,opencv,docker,mysql,postgres,git,fastapi,flask,cmake,ros)](https://skillicons.dev)
