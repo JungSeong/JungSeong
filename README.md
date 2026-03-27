@@ -8,7 +8,7 @@
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jungseong&compact=true&size=medium&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
 
 **>> 📝 Here is my [CV](https://drive.google.com/file/d/1bPNPj8nd5lDb3IIHtFwnBpx26eagywUB/view?usp=drive_link) (last updated : 26.03.27)**<br>
-**>> 🌐 Also, Here is my [Git Blog](https://jungseong.github.io/)**<br>
+**>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
 **>> _🎯 Currently Focusing ON [DACON 구조물 안정성 물리추론 AI 경진대회](https://dacon.io/competitions/official/236686/overview/description)_ (~03.30)**
 
 <!--  
