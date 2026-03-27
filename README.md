@@ -7,7 +7,9 @@
 
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jungseong&compact=true&size=medium&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
 
-<!--
+**_🎯 Currently Focusing ON [DACON 구조물 안정성 물리추론 AI 경진대회](https://dacon.io/competitions/official/236686/overview/description)_**
+
+<!--  
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
