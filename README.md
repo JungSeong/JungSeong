@@ -9,7 +9,7 @@
 
 **>> 📝 Here is my [CV](https://drive.google.com/file/d/1zADnthLIF0nmD9vr2qtnpJJELRNnYnRj/view?usp=drive_link) (last updated : 26.03.27)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
-**>> _🎯 Currently Focusing ON [DACON 구조물 안정성 물리추론 AI 경진대회](https://dacon.io/competitions/official/236686/overview/description)_ (~03.30)**
+**>> _🎯 Currently Focusing ON [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge)_ (~26.05.17)**
 
 <!--  
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
