@@ -1,7 +1,7 @@
 <h2 align="center">AI Engineer</h2>
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,linux,opencv,docker,mysql,postgres,git,fastapi,flask,cmake,ros)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,tensorflow,pytorch,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
 
 <h2> 📐 Algorithm </h2>
 
