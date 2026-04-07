@@ -7,7 +7,23 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-JungSeong-orange?style=flat-square&logo=leetcode)
 
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jungseong&compact=true&size=medium&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![Solved.ac Stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=JungSeong)
+
+</td>
+<td width="50%">
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=JungSeong&theme=dark)
+
+</td>
+</tr>
+</table>
+</div>
 
 **>> 📝 Here is my [CV](https://drive.google.com/file/d/1zADnthLIF0nmD9vr2qtnpJJELRNnYnRj/view?usp=drive_link) (last updated : 26.03.27)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
