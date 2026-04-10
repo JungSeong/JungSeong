@@ -25,9 +25,9 @@
 </table>
 </div>
 
-**>> 📝 Here is my [CV](https://drive.google.com/file/d/1zADnthLIF0nmD9vr2qtnpJJELRNnYnRj/view?usp=drive_link) (last updated : 26.03.27)**<br>
+**>> 📝 Here is my [CV](https://jungseong.github.io/CV/seongwon-resume.pdf) (last updated : 26.04.11)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
-**>> _🎯 Currently Focusing on [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge) and [AICE Associate License](https://aice.study/main)_**
+**>> 🎯 _Currently Focusing on [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge) and [AICE Associate License](https://aice.study/main)_**
 
 <!--  
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
