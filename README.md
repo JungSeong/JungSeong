@@ -1,4 +1,4 @@
-R.I.P BOJ ToT
+Let's build up something cool
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,tensorflow,pytorch,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
