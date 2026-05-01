@@ -1,7 +1,7 @@
 Let's build up something cool
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,tensorflow,pytorch,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,pytorch,tensorflow,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
 
 <h2> Algorithm </h2>
 
@@ -23,9 +23,9 @@ Let's build up something cool
 </table>
 </div>
 
-**>> 📝 Here is my [CV](https://jungseong.github.io/CV/seongwon-resume.pdf) (last updated : 26.04.11)**<br>
+**>> 📝 Here is my [CV](https://jungseong.github.io/CV/seongwon-resume.pdf) (last updated : 26.05.01)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
-**>> 🎯 _Currently Focusing on [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge) and [AICE Associate License](https://aice.study/main)_**
+**>> 🎯 _Currently Focusing on [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge)**
 
 <!--  
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
