@@ -3,29 +3,9 @@ Let's build up something cool
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,pytorch,tensorflow,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
 
-<h2> Algorithm </h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-![Solved.ac Stats](https://mazassumnida.wtf/api/v2/generate_badge?boj=JungSeong)
-
-</td>
-<td width="50%">
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=jungseong" alt="LeetCode Badges" />
-
-</td>
-</tr>
-</table>
-</div>
-
 **>> 📝 Here is my [CV](https://jungseong.github.io/CV/seongwon-resume.pdf) (last updated : 26.05.01)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
-**>> 🎯 _Currently Focusing on [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge)**
+**>> 🎯 _Currently Focusing on [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge)_**
 
 <!--  
 **JungSeong/JungSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
