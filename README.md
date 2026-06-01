@@ -3,7 +3,7 @@ Let's build up something cool
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,pytorch,tensorflow,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
 
-**>> 📝 Here is my [CV](https://jungseong.github.io/CV/seongwon-resume.pdf) (last updated : 26.05.20)**<br>
+**>> 📝 Here is my [CV](https://github.com/JungSeong/JungSeong.github.io/blob/master/CV/seongwon-resume.pdf) (last updated : 26.06.01)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
 
 <!--  
