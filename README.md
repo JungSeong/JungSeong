@@ -1,7 +1,7 @@
 Let's build up something cool
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,latex,pytorch,tensorflow,sklearn,opencv,ros,docker,mysql,postgres,git,fastapi,flask,cmake,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cmake,latex,ros,linux,pytorch,tensorflow,docker,github,opencv,mysql,postgresql,flask)](https://skillicons.dev)
 
 **>> 📝 Here is my [CV](https://github.com/JungSeong/JungSeong.github.io/blob/master/CV/seongwon-resume.pdf) (last updated : 26.06.05)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
