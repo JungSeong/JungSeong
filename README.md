@@ -1,7 +1,11 @@
-Let's build up something cool
+Let's build up something useful
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cmake,latex,ros,linux,pytorch,tensorflow,docker,github,opencv,mysql,postgresql,flask)](https://skillicons.dev)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/JungSeong/JungSeong.github.io/master/img/stacks/tech-stack.svg"
+    alt="Tech Stacks"
+  />
+</p>
 
 **>> 📝 Here is my [CV](https://github.com/JungSeong/JungSeong.github.io/blob/master/CV/seongwon-resume.pdf) (last updated : 26.06.05)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
