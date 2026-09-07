@@ -7,7 +7,7 @@ Let's build up something useful
   />
 </p>
 
-**>> 📝 Here is my [CV](https://github.com/JungSeong/JungSeong.github.io/blob/master/CV/seongwon-resume.pdf) (last updated : 26.09.05)**<br>
+**>> 📝 Here is my [CV](https://github.com/JungSeong/JungSeong.github.io/blob/master/CV/seongwon-resume.pdf) (last updated : 26.09.07)**<br>
 **>> 🌐 Also, you can check my [Git Blog](https://jungseong.github.io/)**<br>
 
 <!--  
